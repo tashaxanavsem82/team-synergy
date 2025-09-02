@@ -9,7 +9,7 @@ Thank you for your interest in contributing to Team Synergy! We appreciate your 
    git checkout -b feature/your-feature-name
    ```
 3. **Make Changes**: Make your changes in the new branch.
-4. **Commit Your Changes**: Commit your changes with a descriptive message that explains the purpose of the changes clearly.
+4. **Commit Your Changes**: Commit your changes with a descriptive message that clearly explains the purpose of the changes. This helps maintain clarity in the project history.
    ```
    git commit -m "Add some feature"
    ```
