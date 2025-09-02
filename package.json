@@ -1,7 +1,7 @@
 {
   "name": "example-project",
   "version": "1.0.0",
-  "description": "An example project",
+  "description": "A simple React example project",
   "main": "index.js",
   "scripts": {
     "test": "echo 'No tests specified' && exit 0"
