@@ -1,1 +1,16 @@
 {
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "An example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user/example-project.git"
+  },
+  "keywords": [],
+  "author": "Author Name",
+  "license": "ISC"
+}
