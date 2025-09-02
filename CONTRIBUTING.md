@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Team Synergy! We appreciate your 
 
 ## How to Contribute
 1. **Fork the Repository**: Create your own copy of the repository by forking it.
-2. **Create a Branch**: Create a new branch for your feature or bug fix. Use descriptive names for your branches.
+2. **Create a Branch**: Create a new branch for your feature or bug fix. Use descriptive names for your branches (e.g., `feature/add-login`, `bugfix/fix-header`).
    ```
    git checkout -b feature/your-feature-name
    ```
